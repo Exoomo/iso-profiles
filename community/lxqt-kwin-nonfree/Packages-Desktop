@@ -4,7 +4,6 @@
 ## APPLICATIONS
 feathernotes
 featherpad
-firefox
 gparted
 mupdf
 
@@ -36,7 +35,6 @@ networkmanager-qt
 openssh
 
 ## DOCK
-plank
 
 ## MANJARO SETTINGS MANAGER
 manjaro-settings-manager
